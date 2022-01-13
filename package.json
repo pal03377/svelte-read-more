@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
-  "svelte": "src/index.js",
+  "svelte": "src/ReadMore.svelte",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w"
